@@ -1,10 +1,24 @@
 # 🚀 Run and Deploy Magical GIF Maker App
+
 This contains everything you need to run this app locally.
 
-## Run Locally
+## ✨ Prompt Example Result
 
-**Prerequisites:**  Node.js
+### Prompt:
+> **"a cartoon green parrot wearing sunglasses and happily eating a mango"**
 
+### Result:
+The generated GIF using Magical GIF Maker App
+
+**`parrot.gif`**  
+![parrot.gif](./parrot.gif)
+
+---
+
+## 🛠️ Run Locally
+
+**Prerequisites:**  
+- Node.js (v16+ recommended)
 
 1. Install dependencies:
    `npm install`
